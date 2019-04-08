@@ -79,7 +79,10 @@ header{
 }
 
 #mymap{ 
-    height: 180px; 
+    height: 75vh ;
+    margin-left: auto;
+    margin-right: auto;
+   
 }
 
 
